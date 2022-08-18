@@ -60,7 +60,7 @@ li {
 }
 
 .slide:nth-child(3) {
-  background: url("img/slide3.jpeg") no-repeat center center/cover;
+  background: url("img/slide3.png") no-repeat center center/cover;
 }
 
 .slide:nth-child(4) {
@@ -139,6 +139,9 @@ li {
   background: url("img/slide2.jpeg") no-repeat center center/cover;
 }
 
+.picture:nth-child(2) {
+  background: url("img/slide3.png") no-repeat center center/cover;
+}
 
 .picture:nth-child(4) {
   background: url("img/slide4.png") no-repeat center center/cover;
